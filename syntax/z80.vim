@@ -124,7 +124,6 @@ delcommand HiLink
 endif
 
 let b:current_syntax = "z80"
-set ts=8
-set sw=8
-" vim: ts=8
+set ts=2
+set sw=2
 
